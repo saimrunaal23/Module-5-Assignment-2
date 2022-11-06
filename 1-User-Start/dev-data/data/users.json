@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Sai Mrunaal",
+    "email": "saimrunaal@gmail.com",
+    "role":"student",
+    "password": "password1",
+    "passwordConfirm": "password1",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNjYzMWRjMDVhMzNmM2VlNTA0MWQyYSIsImlhdCI6MTY2NzY0MTgyMSwiZXhwIjoxNjc1NDE3ODIxfQ.74dZgzMfjb4k7Ui_7EBPlalDbuBJLWZYNc6NiLtIDxU"
+  }
+  ,{
+    "name": "Dave",
+    "email": "dave@gmail.com",
+    "role":"staff",
+    "password": "dave12341",
+    "passwordConfirm": "dave12341",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNjYzMjZhMDVhMzNmM2VlNTA0MWQyYyIsImlhdCI6MTY2NzY0MTk2MiwiZXhwIjoxNjc1NDE3OTYyfQ.uOTrzV8DndnyrM4pL-57GnXM67ubfyVOKMwjJwEFLpQ"
+  },{
+    "name": "dxs sthapit",
+    "email": "admin@dxs.io",
+    "role":"admin",
+    "password": "dinesh1234",
+    "passwordConfirm": "dinesh1234",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNjYzMjliMDVhMzNmM2VlNTA0MWQyZSIsImlhdCI6MTY2NzY0MjAxMiwiZXhwIjoxNjc1NDE4MDEyfQ.wXlBIwggi6fn6VbVD3EO53Xd1DiqbFFNkxU5zpna9_s"
+  },{
+    "name": "Arun chaa",
+    "email": "arun@asu.edu",
+    "role":"student",
+    "password": "hello12342",
+    "passwordConfirm": "hello12342",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNjYzMmQ2MDVhMzNmM2VlNTA0MWQzMCIsImlhdCI6MTY2NzY0MjA3MCwiZXhwIjoxNjc1NDE4MDcwfQ.c45jtUmCfml27noVApfHiG5tWXf1N-QEd2YtI1G3ikM"
+  },{
+    "name": "Sophie Louise Hart",
+    "email": "sophie@example.com",
+    "role":"user",
+    "password": "password12345",
+    "passwordConfirm": "password12345",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNjYzMzBiMDVhMzNmM2VlNTA0MWQzMiIsImlhdCI6MTY2NzY0MjEyNCwiZXhwIjoxNjc1NDE4MTI0fQ.UzFxgwQraEmfTa_mVor4z4W7SsEPDDxSdaY4rG2_wN4"
+  }
+  ]
